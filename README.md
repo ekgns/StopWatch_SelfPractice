@@ -178,3 +178,7 @@ class ViewController: UIViewController {
     
 }
 ```
+<img src="https://user-images.githubusercontent.com/70513066/108709692-64942600-7556-11eb-98da-b783d226fa82.png" width="40%">
+<img src="https://user-images.githubusercontent.com/70513066/108709661-580fcd80-7556-11eb-81f9-80e67f1b79d4.png" width="40%">
+
+
